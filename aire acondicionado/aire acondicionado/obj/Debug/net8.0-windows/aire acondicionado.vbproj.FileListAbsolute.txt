@@ -1,0 +1,32 @@
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.exe
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.deps.json
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.runtimeconfig.json
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.pdb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire_acondicionado.Form1.resources
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\refint\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.pdb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\ref\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.exe
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.deps.json
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.runtimeconfig.json
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\bin\Debug\net8.0-windows\aire acondicionado.pdb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire_acondicionado.Form1.resources
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\refint\aire acondicionado.dll
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.pdb
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\aire acondicionado.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\aire acondicionado\aire acondicionado V2\aire acondicionado\aire acondicionado\aire acondicionado\obj\Debug\net8.0-windows\ref\aire acondicionado.dll
